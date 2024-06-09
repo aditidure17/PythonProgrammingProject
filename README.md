@@ -13,7 +13,7 @@ This repository contains the source code and documentation for a simple to-do li
 To use the application, follow these steps:
 1. Clone the repository: `git clone https://github.com/aditidure17/PythonProgrammingProject`
 2. Navigate to the codes of repository: `cd PythonProgrammingProject/codes`
-3. Run the main program: `python main.py`
+3. Run the main program: `python3 main.py`
 
 ## Documentation
 
